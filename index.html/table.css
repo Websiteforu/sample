@@ -1,0 +1,86 @@
+header{
+       
+       background-image:url(E:\images/flywheel.jpg);
+
+       background-size: cover;
+       padding: 20px;
+       border: 20px solid white;
+
+}
+h1{
+
+   text-align:center;
+   font-size: 150%;
+   color:#FFFFFF;
+   text-transform: uppercase;
+   margin:70px;
+}
+a,span{
+     font-size:120%;
+     text-align:left;
+     color:#ffffff;
+     background:rgba(255,255,255,1.0);
+     font-height:23px;    
+}
+nav a{
+      text-align: center;
+      color:#000000;
+      background:#ffffff;
+      opacity:0.3;
+      display: inline-block;
+      width:12%;
+      margin-right:9%;
+      text-decoration: none;
+      border-style:none;
+      padding:20px;
+      border-radius:5px;
+}
+.current{
+ color:#000000;
+ background: #ffffff;
+ text-transform: normal;
+ size: 12px;
+}
+aside,{
+     background-image: #777613;     
+     display:img;     
+     box-sizing:border-box;  
+}
+img{
+    display:block;
+    width:15%;
+    img-size: 5px;
+    padding: 10px;
+    cursor: zoom-in;
+    background-color:#777613;
+    border:1px solid #000000;
+    box-sizing:border-box;
+
+h2{
+   color:#000000;
+   font-size:190%;
+   text-transform:normal;
+}
+section{
+display:block;
+float:right;
+}
+main{
+   display:block;
+}
+section,img{
+display:block;
+ font-size:20px;
+}
+section{
+    color:green;
+    border-spacing:0;
+    border: 3px solid green;
+     border-radius: 0 0 25px 25px;
+}
+tr:nth-child(university){
+  bacground: green;
+}
+tr:nth-child(college){
+  background:green;
+}
